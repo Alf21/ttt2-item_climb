@@ -14,7 +14,6 @@ ITEM.EquipMenuData = {
 }
 ITEM.material = "vgui/ttt/icon_climb"
 ITEM.credits = 2
-ITEM.notBuyable = true
 ITEM.CanBuy = {ROLE_TRAITOR, ROLE_DETECTIVE}
 
 -- Falling & Roll Effect for Climb SWEP2
